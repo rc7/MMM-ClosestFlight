@@ -19,7 +19,7 @@ You will also need to provide your own bounding-box coordinates in the form of m
 
 # Add to your config.js
 ```{
-  module: "MMM-PilotWX",
+  module: "MMM-ClosestFlight",
   position: "top_left",
   config: {
         myLatitude: 35.2295, // Latitude of MagicMirror
