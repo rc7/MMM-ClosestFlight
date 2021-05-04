@@ -36,4 +36,4 @@ You will also need to provide your own bounding-box coordinates in the form of m
         retryDelay: 2500,
         updateInterval: 20000 // How often to update
 	}
-},`
+},
